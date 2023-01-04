@@ -1,0 +1,212 @@
+# emu/inptport.c: 3985
+%s timeout
+
+
+# emu/inptport.c: 3461
+%s-%c.sta is Nothing
+
+
+# emu/emuopts.c: 249
+AVI RECORD OPTIONS
+
+
+# emu/inpttype.h: 758
+AVI Record
+
+
+# emu/inptport.c: 4042, 4105
+Advancement
+
+
+# emu/inptport.c: 3542
+Auto-save Start
+
+
+# emu/inptport.c: 3536
+Auto-save Stop
+
+
+# emu/inptport.c: 7565
+Autofire Off
+
+
+# emu/inptport.c: 7565
+Autofire On
+
+
+# emu/inptport.c: 4018, 4079 mame/drivers/igspoker.c: 579, 1024, 1025, 1298, 1299 mame/drivers/limenko.c: 581
+Change
+
+
+# emu/inpttype.h: 751
+Clear Chat Log
+
+
+# emu/inptport.c: 3973
+Data reception timeout
+
+
+# emu/inptport.c: 3420
+Dipswitch Nothing
+
+
+# emu/inptport.c: 3950
+Duplicate position disabled
+
+
+# emu/inptport.c: 3949
+Duplicate position enabled
+
+
+# emu/inpttype.h: 724
+Kaiilera Player Shift Up
+
+
+# emu/inpttype.h: 730
+Kaillera Auto-save
+
+
+# emu/inpttype.h: 754
+Kaillera Chat Change Draw Mode
+
+
+# emu/inpttype.h: 753
+Kaillera Chat Open
+
+
+# emu/inpttype.h: 755
+Kaillera Chat Show Chat Log
+
+
+# emu/inpttype.h: 728
+Kaillera Duplicate Position
+
+
+# emu/inpttype.h: 738
+Kaillera Overclock
+
+
+# emu/inpttype.h: 725
+Kaillera Player Shift Down
+
+
+# emu/inpttype.h: 733
+Kaillera Send Dipswitches
+
+
+# emu/inpttype.h: 740
+Kaillera Sync Check
+
+
+# emu/inpttype.h: 732
+Kaillera Version Check
+
+
+# emu/inpttype.h: 731
+Kaillera time level change
+
+
+# emu/inpttype.h: 734
+Killera Select Save Slot
+
+
+# emu/inpttype.h: 736
+Killera Send Save Data
+
+
+# emu/inptport.c: 3938, 4339
+Load from %s-%c.sta
+
+
+# emu/inptport.c: 3888
+Machine Reset
+
+
+# emu/inptport.c: 3572
+Now Sync Checking
+
+
+# emu/inptport.c: 3574
+Other Player Sync Checking
+
+
+# emu/ui.c: 2061
+Overclock
+
+
+# emu/inptport.c: 7565 emu/uimenu.c: 3745
+P%d %s
+
+
+# emu/inptport.c: 3326, 4263
+Play Game With Record Input Log As %s
+
+
+# emu/ui.c: 2078
+Please press the [Y] key, for ending
+
+
+# emu/inptport.c: 4030, 4092
+Retreat
+
+
+# emu/inptport.c: 3410, 4323
+Saved Name As %c
+
+
+# emu/inptport.c: 3964
+Savestate check timeout
+
+
+# emu/ui.c: 2029
+Select Slot
+
+
+# emu/ui.c: 2007
+Select position (0-9, A-Z) to save to
+
+
+# emu/inptport.c: 3432
+Send Dipswitch
+
+
+# emu/inptport.c: 3480
+Send status file
+
+
+# emu/uimenu.c: 1704
+Special Controls
+
+
+# emu/inptport.c: 3603
+Start Sync Check
+
+
+# emu/inptport.c: 3571, 3584
+Sync Check
+
+
+# emu/inptport.c: 3489
+There is no other party
+
+
+# emu/inptport.c: 3577
+There is no other party for Sync Check
+
+
+# emu/inptport.c: 3422
+Too many Dipswitches
+
+
+# emu/inptport.c: 3848
+Transmission completed
+
+
+# emu/inptport.c: 3503
+Transmission failed
+
+
+# emu/emuopts.c: 152
+enable/disable volume auto adjust
+
+

@@ -1,0 +1,212 @@
+# emu/inptport.c: 3985
+%s timeout
+%sがタイムアウトしました
+
+# emu/inptport.c: 3461
+%s-%c.sta is Nothing
+%s-%c.sta が見つかりません
+
+# emu/emuopts.c: 249
+AVI RECORD OPTIONS
+AVi録画オプション
+
+# emu/inpttype.h: 758
+AVI Record
+AVI録画
+
+# emu/inptport.c: 4042, 4105
+Advancement
+前進
+
+# emu/inptport.c: 3542
+Auto-save Start
+オートセーブ開始
+
+# emu/inptport.c: 3536
+Auto-save Stop
+オートセーブ中止
+
+# emu/inptport.c: 7565
+Autofire Off
+連射OFF
+
+# emu/inptport.c: 7565
+Autofire On
+連射ON
+
+# emu/inptport.c: 4018, 4079 mame/drivers/igspoker.c: 579, 1024, 1025, 1298, 1299 mame/drivers/limenko.c: 581
+Change
+変更
+
+# emu/inpttype.h: 751
+Clear Chat Log
+チャット ログを消去
+
+# emu/inptport.c: 3973
+Data reception timeout
+データ受信がタイムアウトしました
+
+# emu/inptport.c: 3420
+Dipswitch Nothing
+ディップスイッチがありません
+
+# emu/inptport.c: 3950
+Duplicate position disabled
+プレイヤー位置の重複指定が解除されました
+
+# emu/inptport.c: 3949
+Duplicate position enabled
+プレイヤー位置の重複指定が可\x94\x5cになりました
+
+# emu/inpttype.h: 724
+Kaiilera Player Shift Up
+Kailleraプレイヤー位置前進
+
+# emu/inpttype.h: 730
+Kaillera Auto-save
+Kailleraオートセーブ
+
+# emu/inpttype.h: 754
+Kaillera Chat Change Draw Mode
+チャット 文字描画モード変更
+
+# emu/inpttype.h: 753
+Kaillera Chat Open
+チャット 開く
+
+# emu/inpttype.h: 755
+Kaillera Chat Show Chat Log
+チャット ログの\x95\x5c示
+
+# emu/inpttype.h: 728
+Kaillera Duplicate Position
+Kaillera重複位置の使用
+
+# emu/inpttype.h: 738
+Kaillera Overclock
+Kailleraオーバークロック
+
+# emu/inpttype.h: 725
+Kaillera Player Shift Down
+Kailleraプレイヤー位置後退
+
+# emu/inpttype.h: 733
+Kaillera Send Dipswitches
+Kailleraディップスイッチ送信
+
+# emu/inpttype.h: 740
+Kaillera Sync Check
+Kaillera同期チェック
+
+# emu/inpttype.h: 732
+Kaillera Version Check
+Kailleraバージョンチェック
+
+# emu/inpttype.h: 731
+Kaillera time level change
+Kaillera時間調節レベル変更
+
+# emu/inpttype.h: 734
+Killera Select Save Slot
+Kailleraスロット選択
+
+# emu/inpttype.h: 736
+Killera Send Save Data
+Kailleraセーブデータ送信
+
+# emu/inptport.c: 3938, 4339
+Load from %s-%c.sta
+%s-%c.sta から読み込みました
+
+# emu/inptport.c: 3888
+Machine Reset
+リセットされました
+
+# emu/inptport.c: 3572
+Now Sync Checking
+同期チェック中です
+
+# emu/inptport.c: 3574
+Other Player Sync Checking
+他のプレイヤーが同期チェック中です
+
+# emu/ui.c: 2061
+Overclock
+オーバークロック
+
+# emu/inptport.c: 7565 emu/uimenu.c: 3745
+P%d %s
+プレイヤー%d %s
+
+# emu/inptport.c: 3326, 4263
+Play Game With Record Input Log As %s
+%sに入力を保存しながら実行されます
+
+# emu/ui.c: 2078
+Please press the [Y] key, for ending
+終了するには[Y]キーを押してください
+
+# emu/inptport.c: 4030, 4092
+Retreat
+後退
+
+# emu/inptport.c: 3410, 4323
+Saved Name As %c
+%c に保存しました
+
+# emu/inptport.c: 3964
+Savestate check timeout
+セーブチェックがタイムアウトしました
+
+# emu/ui.c: 2029
+Select Slot
+スロット選択
+
+# emu/ui.c: 2007
+Select position (0-9, A-Z) to save to
+使用するファイル(0-9,A-Z)を押してください
+
+# emu/inptport.c: 3432
+Send Dipswitch
+ディップスイッチ送信
+
+# emu/inptport.c: 3480
+Send status file
+staファイル送信
+
+# emu/uimenu.c: 1704
+Special Controls
+スペシャルコントロール
+
+# emu/inptport.c: 3603
+Start Sync Check
+同期チェック開始
+
+# emu/inptport.c: 3571, 3584
+Sync Check
+同期チェック
+
+# emu/inptport.c: 3489
+There is no other party
+送信相手がいません
+
+# emu/inptport.c: 3577
+There is no other party for Sync Check
+同期チェックの相手がいません
+
+# emu/inptport.c: 3422
+Too many Dipswitches
+ディップスイッチが多すぎます
+
+# emu/inptport.c: 3848
+Transmission completed
+データ送信完了
+
+# emu/inptport.c: 3503
+Transmission failed
+エラー発生、送信に失敗しました
+
+# emu/emuopts.c: 152
+enable/disable volume auto adjust
+自動音量調整機能\を有効
+

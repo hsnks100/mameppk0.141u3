@@ -1,0 +1,34 @@
+# Benchmark env
+
+#export PARAMS="-norc -now -ftr 5000 -noafs -r 1280x1024x32 -screen_aspect 5:4 -skip_gameinfo -nothrottle -rdtsc -priority 1 -noart -nomouse -nojoy -nogun -nosleep -d3d -noflt -rompath D:\MAME\roms -ctrlr_directory D:\MAME\ctrlr"
+export PARAMS="-norc -now -ftr 5000 -noafs -r 1280x1024x32 -screen_aspect 5:4 -skip_gameinfo -nothrottle -rdtsc -priority 1 -noart -nomouse -nojoy -nogun -nosleep -video d3d -d3dversion 9 -nofilter -rompath D:\MAME\roms -ctrlr_directory D:\MAME\ctrlr"
+
+export TESTBINROOT="D:/MAME/testbin"
+
+export TESTBINLIST=" \
+    107u2_qa/mame32.exe \
+    107u2_plus/mamep.exe \
+    107u2_plus_noscaler/mamep.exe"
+
+export GAMELIST=" \
+    captcomm \
+    daraku \
+    elvactr \
+    ga2 \
+    gundhara \
+    gunforc2 \
+    nbapbp \
+    offroadc \
+    orlegend \
+    pacman \
+    rdft22kc \
+    rtype \
+    salmndr2 \
+    samsho2 \
+    sfa3 \
+    sfex2 \
+    shienryu \
+    tekken3 \
+    timekill \
+    vasara2 \
+    xexex"

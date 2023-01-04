@@ -1,0 +1,12 @@
+# osd/windows/window.c: 1530 
+AVI
+AVI˜^‰æ
+
+# osd/windows/window.c: 1532
+AVI Rec
+AVI˜^‰æ‚Æ˜^‰¹
+
+# osd/windows/window.c: 1531
+AVI/WAV Rec
+AVI˜^‰æ‚ÆWav˜^‰¹
+

@@ -1,0 +1,696 @@
+# osd/winui/winui.c: 9953
+%c-slot is selected
+スロット%c が選択されました
+
+# osd/winui/ui_temp.c: 150
+%dp Position %s %s
+%dpが位置を%s %s
+
+# osd/winui/ui_temp.c: 286
+%dp Position %s [%s]
+%dpが位置を%s [%s]
+
+# osd/winui/mameui.rc: 1574
+&Allow Web Access
+WEBアクセスを許可(&A)
+
+# osd/winui/mameui.rc: 212
+&Frequently Asked Questions
+よくある質問集(&F)
+
+# osd/winui/mameui.rc: 169
+&Kaillera Client Options...
+Kailleraクライアントオプション(&K)...
+
+# osd/winui/mameui.rc: 1579
+&Start when MAME32 starts
+MAME GUIと共に動作(&S)
+
+# osd/winui/mameui.rc: 88, 250
+&View Information at MAWS
+MAWSで情報を表\示(&V)
+
+# osd/winui/winui.c: 10280
+* Player %i (%s) dropped from the current game.
+* Player %i (%sさん) がゲームから落ちました
+
+# osd/winui/winui.c: 10611
+2 times
+2倍
+
+# osd/winui/winui.c: 10610
+3 times
+3倍
+
+# osd/winui/winui.c: 10609
+4 times
+4倍
+
+# osd/winui/layout.c: 103
+80s Games
+80年代黎明期他
+
+# osd/winui/mameui.rc: 1329
+AVI RECORD
+AVI録画の設定
+
+# osd/winui/winui.c: 10406
+All members' Synchronization is perfect
+完全に同期しているようです
+
+# osd/winui/winui.c: 10050
+All members' save data matched
+全員のセーブデータが一致しました
+
+# osd/winui/mameui.rc: 1478
+All players quit game
+全員ゲームを終了
+
+# osd/winui/winui.c: 10455
+All the members' save data was coincidenced
+全員のセーブデータが一致しました
+
+# osd/winui/mameui.rc: 1480
+Auto end
+自動終了
+
+# osd/winui/mameui.rc: 1483
+Auto-save time interval
+オートセーブ間隔
+
+# osd/winui/winui.c: 9980
+CPUs Overclocked %d %%
+CPUが %d %%にオーバークロックされました
+
+# osd/winui/layout.c: 94
+Capcom CPS
+カプコンCPS
+
+# osd/winui/winui.c: 3084
+Close KailleraClient Window
+KailleraClientウィンドウを閉じてください
+
+# osd/winui/mameui.rc: 1413
+Color Option
+色
+
+# osd/winui/mameui.rc: 1390
+Config as TV
+TV表\示用に設定
+
+# osd/winui/mameui.rc: 1533
+Connection Type:
+公開方法:
+
+# osd/winui/mameui.rc: 1543
+Connection restriction:
+接続の制限:
+
+# osd/winui/mameui.rc: 1344
+Convert 16bit to 24bit 
+16bitを24bitに変換
+
+# osd/winui/mameui.rc: 1342
+Convert 16bit to 8bit 
+16bitを8bitに減色
+
+# osd/winui/winui.c: 7835
+Could not open '%s' as a valid trace file.
+'%s' を有効なtrcファイルとしてオープンできません
+
+# osd/winui/winui.c: 11819, 12038
+Could not open '%s' as a valid wave file.
+「%s」を有効なWAVEファイルとしてオープンできません
+
+# osd/winui/winui.c: 914
+Default Game Options
+デフォルトゲームオプション
+
+# osd/winui/winui.c: 10321
+Dipswitches Changed
+ディップスイッチ修正
+
+# osd/winui/mameui.rc: 1544
+Disabled
+無効
+
+# osd/winui/ui_temp.c: 923
+Disconnected, Because there was no response %ums
+%ums応答がなかったため切断しました
+
+# osd/winui/mameui.rc: 1498
+Display system messages
+システムメッセージ表\示
+
+# osd/winui/winui.c: 11178
+Do not record sound
+録音しない
+
+# osd/winui/winui.c: 11028
+Draw every frame  @
+フレームスキップなし @
+
+# osd/winui/mameui.rc: 1581
+E&xit when MAME32 exits
+MAME GUI終了時に停止(&E)
+
+# osd/winui/mameui.rc: 1600
+Export &all list
+全てのリストを出力(&a)
+
+# osd/winui/mameui.rc: 1602
+Export &current folder list
+現在のフォルダのリストを出力(&c)
+
+# osd/winui/mameui.rc: 1606
+Export &game detail list
+詳細なゲームリストを出力(&g)
+
+# osd/winui/mameui.rc: 1604
+Export &rom name
+ロム名を出力(&r)
+
+# osd/winui/mameui.rc: 1596
+Export List Options
+リスト出力オプション
+
+# osd/winui/winui.c: 5215
+Export a roms list file
+ロム名を出力するファイル
+
+# osd/winui/winui.c: 5174
+Export all game list file
+全てのリストを出力するファイル
+
+# osd/winui/winui.c: 5204
+Export current folder game list file
+現在のフォルダのリストを出力するファイル
+
+# osd/winui/winui.c: 5226
+Export detail list file
+詳細なゲームリストを出力するファイル
+
+# osd/winui/mameui.rc: 1578
+Extra Settings:
+特殊な設定:
+
+# osd/winui/mameui.rc: 1415
+File Partition
+ファイル分割
+
+# osd/winui/mameui.rc: 1391
+Frame Compose
+フレーム合成処理
+
+# osd/winui/mameui.rc: 1332
+Frames
+1秒間のフレーム数
+
+# osd/winui/mameui.rc: 1942
+Go to MAME Development site
+MAME開発者サイトへ移動
+
+# osd/winui/winui.c: 6538
+Go to MAME Development site?
+MAME開発者サイトへ移動しますか？
+
+# osd/winui/mameui.rc: 1942
+Go to MAME FAQ site
+MAME FAQサイトへ移動
+
+# osd/winui/winui.c: 6550
+Go to MAME FAQ site?
+MAM FAQサイトへ移動しますか？
+
+# osd/winui/mameui.rc: 1942
+Go to MAWS information site
+MAWS情報サイトへ移動
+
+# osd/winui/winui.c: 6567
+Go to MAWS site?
+MAWSサイトへ移動しますか？
+
+# osd/winui/mameui.rc: 1448, 1453
+Height:
+高さ:
+
+# osd/winui/mameui.rc: 1502
+Hide main window
+メインウィンドウを隠す
+
+# osd/winui/mameui.rc: 1397
+Interlaced
+インターレース
+
+# osd/winui/mameui.rc: 1535
+Internet
+インターネット
+
+# osd/winui/mameui.rc: 74, 231
+Kaillera &NetPlay...
+ネットワークプレイ(&N)...
+
+# osd/winui/mameui.rc: 173
+Kaillera &Server Options...
+Kailleraサーバーオプション(&S)...
+
+# osd/winui/mameui.rc: 1495
+Kaillera Client Changes to Japanese
+KailleraClient日本語化
+
+# osd/winui/mameui.rc: 1464
+Kaillera Options
+Kailleraオプション
+
+# osd/winui/mameui.rc: 1512
+Kaillera Server Configuration:
+Kailleraサーバーの設定
+
+# osd/winui/winui.c: 3097, 6038
+Kaillera Server Terminated!
+Kailleraサーバーが正常に終了しました。
+
+# osd/winui/mameui.rc: 1570
+Kaillera Server current status:
+Kailleraサーバーの現在の状態:
+
+# osd/winui/mameui.rc: 1571 osd/winui/winui.c: 12311
+Kaillera Server is not running.
+Kailleraサーバーは起動していません。
+
+# osd/winui/winui.c: 12313
+Kaillera Server is running...
+Kailleraサーバーは実行中です・・・
+
+# osd/winui/winui.c: 2781
+Kaillera Server running detected!
+Kailleraサーバーが実行されているのを検出しました
+
+# osd/winui/mameui.rc: 1491
+Kaillera record input
+入力の保存
+
+# osd/winui/layout.c: 99
+Konami GX&OLDs
+コナミGX&OLDs
+
+# osd/winui/mameui.rc: 1553
+Line 1:
+1行目:
+
+# osd/winui/mameui.rc: 1554
+Line 2:
+2行目:
+
+# osd/winui/mameui.rc: 1555
+Line 3:
+3行目:
+
+# osd/winui/mameui.rc: 1556
+Line 4:
+4行目:
+
+# osd/winui/mameui.rc: 1557
+Line 5:
+5行目:
+
+# osd/winui/mameui.rc: 1558
+Line 6:
+6行目:
+
+# osd/winui/mameui.rc: 1559
+Line 7:
+7行目:
+
+# osd/winui/mameui.rc: 1560
+Line 8:
+8行目:
+
+# osd/winui/mameui.rc: 1493
+Local record input
+入力の保存（ローカル）
+
+# osd/winui/mameui.rc: 1500
+Lock main window
+メインウィンドウ操作不可
+
+# osd/winui/mameui.rc: 1470
+Lost connection action
+Lost時の動作
+
+# osd/winui/mameui.rc: 1411
+M
+分
+
+# osd/winui/mameui.rc: 211
+MAME &Development site
+MAME開発者サイト(&D)
+
+# osd/winui/winui.c: 917
+MAME Homepage
+MAMEホームページ
+
+# osd/winui/mameui.rc: 1416
+MByte Partition
+MByteで分割
+
+# osd/winui/layout.c: 104
+Mahjong&Puzzle
+麻雀/パズル他
+
+# osd/winui/mameui.rc: 1519
+Maximum users:
+最大ユーザー数:
+
+# osd/winui/winui.c: 9925
+Maybe Desync
+同期がズレているようです
+
+# osd/winui/winui.c: 10398
+Maybe Desync %s
+%s との同期がズレている可\x94\x5c性があります
+
+# osd/winui/mameui.rc: 1537
+Message Limit:
+メッセージ制限:
+
+# osd/winui/mameui.rc: 1552
+Message of the day:
+サーバーメッセージ:
+
+# osd/winui/layout.c: 97
+Namco S1&S2
+ナムコS1&S2他
+
+# osd/winui/winui.c: 10612
+Normal
+通常
+
+# osd/winui/mameui.rc: 1399
+Odd Frame
+奇数フィールドから
+
+# osd/winui/layout.c: 102
+Old Games
+その他OLDs抜粋
+
+# osd/winui/mameui.rc: 1348
+Pause as Partition
+分割で一時停止
+
+# osd/winui/mameui.rc: 1895
+Play game over Kaillera
+ネットワークゲームを開始します
+
+# osd/winui/mameui.rc: 1938
+Play game with save video in specified avi file
+ゲームをプレイしながら動画を指定したAVIファイルに保存します
+
+# osd/winui/winui.c: 915
+Play network game with favorite
+お気に入りでネットプレイ
+
+# osd/winui/mameui.rc: 53, 225
+Play to AVI Record...
+AVI録画しながら実行...
+
+# osd/winui/mameui.rc: 1476
+Quit game
+ゲームを終了する
+
+# osd/winui/winui.c: 10236
+Receiving %d percent
+受信状況 %d％
+
+# osd/winui/winui.c: 10256
+Reception completed. %s-%c.sta successfully saved.
+データ受信完了、%s-%c.sta に保存しました
+
+# osd/winui/mameui.rc: 1422
+Record Option
+録音の設定
+
+# osd/winui/mameui.rc: 1350
+Record Range
+録画する範囲
+
+# osd/winui/mameui.rc: 1371
+Record Time limit
+録画時間の制限
+
+# osd/winui/winui.c: 11179
+Record as WAV file
+WAVEファイルへ録音
+
+# osd/winui/winui.c: 11180
+Record to AVI
+AVIファイルへ録音
+
+# osd/winui/mameui.rc: 1421
+Record to AVI File
+作成するAVIファイル
+
+# osd/winui/winui.c: 912
+Refresh
+最新の情報に更新
+
+# osd/winui/mameui.rc: 1412, 1640
+S
+秒
+
+# osd/winui/mameui.rc: 1583
+S&how command-line console
+コンソ\ール画面を表\示(&S)
+
+# osd/winui/winui.c: 8717
+S&tart Kaillera Server
+Kailleraサーバーを開始(&S)
+
+# osd/winui/winui.c: 8719
+S&top Kaillera Server
+Kailleraサーバーを停止(&S)
+
+# osd/winui/layout.c: 93
+SNK Neo-Geo
+SNKネオジオ
+
+# osd/winui/mameui.rc: 1938
+Save video in specified avi file
+動画を指定したAVIファイルに保存します
+
+# osd/winui/mameui.rc: 1408
+Screen Beginning Position
+画面\n開始位置
+
+# osd/winui/mameui.rc: 1440
+Screen Position and Size in Movie
+画像を表\示する範囲
+
+# osd/winui/mameui.rc: 1449
+Screen Size
+画面\nサイズ
+
+# osd/winui/layout.c: 100
+Sega S16&S32
+セガS16_S32他
+
+# osd/winui/mameui.rc: 1599
+Select Export Content:
+出力内容の選択：
+
+# osd/winui/winui.c: 10034, 10221
+Sending %d percent
+送信状況 %d％
+
+# osd/winui/mameui.rc: 1487
+Sending speed for save file
+セーブデータ転送の速度
+
+# osd/winui/mameui.rc: 1521
+Server IP:
+サーバーアドレス:
+
+# osd/winui/mameui.rc: 1517
+Server Location:
+サーバーの場所:
+
+# osd/winui/mameui.rc: 1516
+Server Name:
+サーバー名:
+
+# osd/winui/mameui.rc: 1520
+Server Port:
+サーバーポート:
+
+# osd/winui/mameui.rc: 1915
+Set kaillera client options
+Kailleraクライアントオプションを設定します
+
+# osd/winui/mameui.rc: 1915
+Set kaillera server options
+Kailleraサーバーオプションを設定します
+
+# osd/winui/mameui.rc: 1389
+Show To Center
+中央に表\示
+
+# osd/winui/winui.c: 7845
+Since environment differs from the time of creation, it may not reappear well.\nIs replay reproduction carried out?\ntrcversion %d\nmame version %s\nPlay Count %d\n
+作成時と環境が違うので、うまく再現されない可能\性があります。\nリプレイ再生しますか？\ntrcversion %d\nmame version %s\nプレイ回数 %d\n
+
+# osd/winui/winui.c: 11027
+Skip %d of 12 frames
+%d/12フレームスキップ
+
+# osd/winui/mameui.rc: 1339
+Skip Frame
+フレームスキップ
+
+# osd/winui/mameui.rc: 1387
+Smooth (Length)
+補間処理(縦方向)
+
+# osd/winui/mameui.rc: 1385
+Smooth (Width)
+補間処理(横方向)
+
+# osd/winui/winui.c: 2805, 6024
+Start Kaillera Server Succeeded!
+Kailleraサーバーの起動に成功しました。
+
+# osd/winui/mameui.rc: 1895
+Start/Stop Kaillera server
+Kailleraサーバーを起動・終了します
+
+# osd/winui/winui.c: 10404
+Sync Check End
+同期チェック完了
+
+# osd/winui/winui.c: 10110, 10352
+Sync Check Failure
+同期チェック失敗
+
+# osd/winui/mameui.rc: 1401
+T/B Flip (Reverse Top and Bottom)
+T/B反転(トップ・ボトムフィールド反転)
+
+# osd/winui/layout.c: 98
+Taito F2&F3
+タイトーF2&3他
+
+# osd/winui/winui.c: 3095, 6036
+Terminate Kaillera Server ERROR!!!
+Kailleraサーバーの終了時にエラーが発生しました。
+
+# osd/winui/winui.c: 10167
+The time regulation level was set as %d
+時間調節レベルが%dに設定されました
+
+# osd/winui/mameui.rc: 1410
+Time
+時間
+
+# osd/winui/layout.c: 101
+Toa&Cave&BP
+東亜&CAVE&BP他
+
+# osd/winui/mameui.rc: 1439
+Total Movie Size:
+動画サイズ:
+
+# osd/winui/winui.c: 5842
+Unable to load DLL: %s
+必要な DLL ファイル %s が見つかりませんでした
+
+# osd/winui/winui.c: 11867, 12087
+Use 'Record AVI' key to toggle start/stop AVI recording.
+「AVI録画」キーでAVI録画処理を開始・停止します
+
+# osd/winui/winui.c: 916
+Use IME in chat
+チャットでIMEを使用
+
+# osd/winui/mameui.rc: 1467
+Use Kaillera client DLL
+使用するKailleraClientDLL
+
+# osd/winui/mameui.rc: 855
+Use volume auto adjust
+自動音量調整機能\を使用
+
+# osd/winui/mameui.rc: 1518
+Web site:
+WEBサイト:
+
+# osd/winui/mameui.rc: 1447, 1452
+Width:
+幅:
+
+# osd/winui/KailleraChat.c: 807
+\t- CHAT LOG -\n
+\t- チャットログ -\n
+
+# osd/winui/winui.c: 10767
+kailleraclient.dll  (not found)
+kailleraclient.dll  (見つかりません)
+
+# osd/winui/mameui.rc: 1406, 1442
+left
+左
+
+# osd/winui/mameui.rc: 1393
+little
+微量
+
+# osd/winui/mameui.rc: 1395
+little(Speed)
+微量(速度重視)
+
+# osd/winui/mameui.rc: 1540
+messages in
+メッセージ /
+
+# osd/winui/mameui.rc: 63
+replay(inp) to AVI Record...
+入力を再現しながらAVI録画...
+
+# osd/winui/mameui.rc: 1486
+sec
+秒
+
+# osd/winui/mameui.rc: 1541
+seconds.
+秒間
+
+# osd/winui/mameui.rc: 1407, 1443
+top
+上
+
+# osd/winui/winui.c: 7840
+trc file version is different\ntrc version %d\nmame version %s\nPlay Count %d\n
+trcファイルのバージョンが違います\ntrc version %d\nmame version %s\nプレイ回数 %d\n
+
+# osd/winui/mameui.rc: 1547
+Average
+
+
+# osd/winui/mameui.rc: 1545
+Bad
+
+
+# osd/winui/mameui.rc: 1549
+Excellent
+
+
+# osd/winui/mameui.rc: 1548
+Good
+
+
+# osd/winui/mameui.rc: 1534, 1550
+LAN
+
+
+# osd/winui/mameui.rc: 1546
+Low
+
+
